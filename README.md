@@ -63,4 +63,3 @@ The guide intentionally uses multiple Mermaid graph styles:
 - `pie`
 - `mindmap`
 - `gitGraph`
-# claude-code-deep-learn
